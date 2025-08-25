@@ -1,4 +1,6 @@
-# Just another TO DO app. ATP, I'm just checking How fast I can build one of these, instead of Can I build one of these
+# Just another TO DO app. 
+
+ATP: I'm just checking How fast I can build one of these, instead of Can I build one of these.
 
 This provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
